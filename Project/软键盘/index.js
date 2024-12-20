@@ -1,5 +1,5 @@
-import softkeyboardInput from '../components/SoftKeyboardInput.vue';
-import softkeyboard from '@/zhctbed/component/SoftKeyboard.vue';
+import softkeyboardInput from './SoftKeyboardInput.vue';
+import softkeyboard from './SoftKeyboard.vue';
 
 let arr = ["infusion", "PPOF", "meanArterialPressure", "plasmaPenetrationPressure", "insulinDosage", "heartValve", "pneumothoraxCompressionArea"];
 export default {
